@@ -1,0 +1,14 @@
+virtual/
+__pycache__/
+*.pyc
+.env
+db.sqlite3
+
+
+virtual/
+pyc.*
+migrations/
+db.sqlite3
+.env
+__pycache__
+.idea
