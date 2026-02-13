@@ -954,8 +954,8 @@ section {
 }
 .whatsapp-btn {
   position: fixed;
-  bottom: 2rem;
-  right: 2rem;
+  bottom: 1rem;
+  right: 1rem;
   background-color: #25D366; /* WhatsApp green */
   color: white;
   font-size: 2rem;
@@ -980,6 +980,7 @@ section {
 }
 
 /*# sourceMappingURL=styles.css.map */
+
 
 
 
