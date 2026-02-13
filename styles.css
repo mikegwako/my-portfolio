@@ -65,9 +65,7 @@ section {
   min-height: 100vh;
   width: 100%;
   padding: 3rem 18rem;
-  position: relative; /* was absolute */
-  top: auto;
-  left: auto;
+  position: relative; /* change from absolute */
 }
 
 
@@ -956,4 +954,5 @@ section {
 }
 
 /*# sourceMappingURL=styles.css.map */
+
 
