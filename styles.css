@@ -65,8 +65,11 @@ section {
   min-height: 100vh;
   width: 100%;
   padding: 3rem 18rem;
-  position: relative;
+  position: relative; /* was absolute */
+  top: auto;
+  left: auto;
 }
+
 
 
 @keyframes appear {
@@ -953,3 +956,4 @@ section {
 }
 
 /*# sourceMappingURL=styles.css.map */
+
