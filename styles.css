@@ -973,9 +973,14 @@ section {
 .whatsapp-btn:hover {
   transform: scale(1.1);
 }
-
+@media screen and (max-width: 600px) {
+  .whatsapp-btn {
+    bottom: 8rem; /* moves button up on mobile */
+  }
+}
 
 /*# sourceMappingURL=styles.css.map */
+
 
 
 
